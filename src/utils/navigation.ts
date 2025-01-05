@@ -17,9 +17,9 @@ const footerLinks = [
     ],
   },
   {
-    section: "Company",
+    section: "Veikla",
     links: [
-      { name: "About us", url: "#" },
+      { name: "Apie mus", url: "/blog" },
       { name: "Blog", url: "/blog" },
       { name: "Careers", url: "#" },
       { name: "Customers", url: "#" },
